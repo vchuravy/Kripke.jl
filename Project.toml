@@ -1,0 +1,4 @@
+name = "Kripke"
+uuid = "740f8ae7-e42a-4ff0-9567-28047e88523a"
+authors = ["Valentin Churavy <v.churavy@gmail.com>"]
+version = "0.1.0"
